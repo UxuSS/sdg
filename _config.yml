@@ -4,7 +4,7 @@
 remote_theme: open-sdg/open-sdg@1.4.0
 
 # Replace this title as needed.
-title: general.site_title
+title: página general
 url: ""
 environment: staging
 
